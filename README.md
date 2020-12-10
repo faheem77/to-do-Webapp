@@ -1,2 +1,2 @@
 <b> Screenshot of this WebApp </b>
-![](Images/Screenshot.png)
+![](Images/Screenshot.PNG)
