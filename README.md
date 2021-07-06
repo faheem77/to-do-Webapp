@@ -1,13 +1,13 @@
 # TO Do Task Web App
 
-First, clone the repository to your local machine:
-git clone https://github.com/faheem77/to-do-Webapp.git
-Install the requirements:
-pip install -r requirements.txt
-Apply the migrations:
+First, clone the repository to your local machine: <br>
+git clone https://github.com/faheem77/to-do-Webapp.git <br>
+Install the requirements:<br>
+pip install -r requirements.txt <br>
+Apply the migrations:<br>
 
-python manage.py migrate Finally, run the development server:
-python manage.py runserver
+python manage.py migrate <br> Finally, run the development server:
+python manage.py runserver <br>
 ![](Images/Screenshot.PNG)
 
 
